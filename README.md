@@ -3,8 +3,6 @@
 ## About
 The repository of my undergraduate thesis titled "Comparative Study between Hierarchical Neural Network and Single Convolutional Neural Network for Image Classification with Hierarchical Data". This repository contains source code for both HNN and single CNN implementations.
 
-## Background
-
 ## Goal
 This research was performed in order to:
 1. To compare accuracy, F1-score, execution time, and memory usage between HNN and single CNN models on CIFAR-100 dataset subset
@@ -32,7 +30,3 @@ The results of our research can be seen in these tables:
 |-----------------------------|-------|--------|
 | **Single CNN** | 0.10520 s | 1027.5664  |
 | **HNN**         | 0.23508 s | 4994.7265  |
-
-## Conclusion
-
-## Dataset
