@@ -30,3 +30,8 @@ The results of our research can be seen in these tables:
 |-----------------------------|-------|--------|
 | **Single CNN** | 0.10520 s | 1027.5664  |
 | **HNN**         | 0.23508 s | 4994.7265  |
+
+Based on these results, we can conclude that the differences of classification performance between single CNN and HNN models are not very significant, with the results slightly favor that of single CNN model. For both models, the Top-1 Accuracy score tops out at around 52%. 
+
+## Limitations and Suggestions
+We suspect that the relatively small size of images and also that the amount of images for each classes is relatively few might contribute to the low classification performance. For further developments, it is suggested to increase the number of images by combining this dataset with other relevant datasets. 
